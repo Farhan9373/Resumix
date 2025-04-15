@@ -20,7 +20,8 @@ export const themeColors = [
   "#F06292", // Light Pink
   "#7986CB", // Light Indigo
   "#FFD54F", // Light Amber
-  "#FFEB3B", // Bright Yellow
+  // "#FFEB3B", // Bright Yellow
+  "#000000", // Black
 ];
 
 export const stripHtml = (html: string): string => {
