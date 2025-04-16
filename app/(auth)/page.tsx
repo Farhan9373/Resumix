@@ -110,7 +110,7 @@ const page = () => {
           <span className="text-sm text-gray-500 sm:text-center">
             © 2024{" "}
             <span className="hover:text-primary-500 hover:cursor-pointer">
-              ResumeAI™
+              Resumix™
             </span>
             . All Rights Reserved.
           </span>
